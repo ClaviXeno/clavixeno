@@ -1,4 +1,4 @@
-*memento mori*
+*memento mori, ita magna fac*
 <!--
 **ClaviXeno/clavixeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
